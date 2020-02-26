@@ -45,9 +45,9 @@ export default class About extends Component {
             </div>
 
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
+                <div className="services color-4">
                 <span className="icon">
-                    <i className="icon-phone2" />
+                    <i className="icon-phone3" />
                 </span>
                 <div className="desc">
                     <h3>Mobile Development </h3>
@@ -59,7 +59,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-layers2" />
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
@@ -75,7 +75,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <p>I am pursuing my internship with DevOps team at Madakar technologies and working with tools like Git, Jenkins, Docker, K8s</p>
                 </div>
                 </div>
             </div>
