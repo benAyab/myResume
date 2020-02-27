@@ -6,4 +6,4 @@ This is the implementaion code for the blog I have written '[How to create your 
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
 
-##### deployed app :
+##### deployed app : https://guigabecv.herokuapp.com
